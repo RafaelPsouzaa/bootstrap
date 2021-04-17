@@ -3,6 +3,9 @@
    padding: 0;
    box-sizing: border-box;
 }
-body{
-    background-color:white;
+.quem-somos{
+    background-color:rgb(64, 206, 75);
+}
+.margin{
+    padding-top: 50px;
 }
