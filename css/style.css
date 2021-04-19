@@ -3,8 +3,11 @@
    padding: 0;
    box-sizing: border-box;
 }
+body{
+    font: 20px sans-serif;
+}
 .quem-somos{
-    background-color:rgb(64, 206, 75);
+    background-color:#8181f7;
     color: white;
 }
 .margin{
